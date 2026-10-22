@@ -1,0 +1,7 @@
+export * from './WhoWeAre'
+export * from './AboutUs'
+export * from './AboutUsMission'
+export * from './AboutUsValues'
+export * from './CategoriesSection'
+export * from './HomeCarousel'
+export * from './EndCarousel'
